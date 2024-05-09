@@ -1,0 +1,55 @@
+CRUD operation to PostgreSQL using Plain SQL packages ( database/sql, lib/pq, jmoiron/sqlx, jackc/pgx )
+
+CRUD operation to PostgreSQL using ORM/ORM-like ( go-gorm/gorm, gobuffalo/pop, volatiletech/sqlboiler )
+
+CRUD operation to POSTGRESQL SQL Statement Builder / Code Generators ( masterminds/squirrel, kyleconroy/sqlc )
+
+CRUD operation to MongoDB
+
+Create HTTP server with http.ServeMux
+
+Create HTTP server with Gin
+
+Create HTTP server with chi
+
+Create HTTP server with gorilla/mux
+
+Create HTTP server with julienschmidt/httprouter
+
+Implement OpenAPI and swagger
+
+Implement caching with memcached
+
+Implement caching with redis ( go-redis/redis ) Use external configuration file for the application Secure a secret using Hashicorp Vault
+
+Leverage different env variable packages ( os.Getenv, joho/godotenv , kelseyhightower/envconfig )
+
+Secure a secret using Azure KeyVault
+
+Observability with OpenTelemetry
+
+Create a GraphQL compatible API
+
+Create a GRPC compatible API
+
+Implement Auth0
+
+Implement OIDC
+
+Implement OAuth
+
+ELK Stack
+
+Prometheus Metrics
+
+Streaming with Apache Kafka
+
+Pub/Sub with Redis
+
+Data encryption / decryption
+
+Payments with Stripe
+
+Chat bot
+
+
